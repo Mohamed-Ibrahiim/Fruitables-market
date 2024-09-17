@@ -1,0 +1,46 @@
+:root{
+    --color:#81C408;
+}
+#navHeader {
+    background-color:var(--color);
+    border-top-left-radius: 50px ;
+    border-bottom-left-radius: 10px ;
+    border-bottom-right-radius: 50px ;
+    border-top-right-radius: 10px ;
+}
+.green {
+    background-color: var(--color);
+}
+.color{
+    color: var(--color);
+}
+
+.bg-color {
+    background-color: var(--color);
+}
+
+.bg-color:hover{
+    background-color: orange; 
+} 
+.dark-green {
+    background-color: #45595b;
+}
+.bgPhoto {
+    background-color: #ffa500ba ;
+    
+}
+
+.t-orange{
+    color: orange;
+}
+.bg-photo {
+    background-image: url(img/hero-img.jpg);
+    margin-bottom: 120px;
+}
+.borderSearch {
+    border-color:orange ;
+}
+.bgCrad {
+    background-color: #f4f6f8 ;
+    
+}
